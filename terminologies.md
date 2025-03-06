@@ -7,6 +7,10 @@
 * 3-5-7 Trading rule
   * ref link:
     * [GrowwTelugu](https://www.youtube.com/shorts/kOIW7rA5m-k)
+* Stop loss hunting
+  * [GrowwTelugu](https://www.youtube.com/shorts/d69kKxNQB8I)
+* VWAP
+  * [GT](https://www.youtube.com/shorts/jCctKbglNbg)
 * SIP
   * Setup investment
     * [GrowwTelugu](https://www.youtube.com/shorts/aKVqbdBtL20)
@@ -30,6 +34,8 @@
     * Return the profit to user
     * [GrowwTelugu](https://www.youtube.com/shorts/-HVQRiisqoM)
 * Candle Stick Tips
+  * What candle indicate
+    * [GrowwTelugu](https://www.youtube.com/shorts/vqlnih15PUI)
   * Reversal Patterns
     * [GrowwTelugu](https://www.youtube.com/shorts/T3l0y6IAeBg)
   * Scalping
@@ -44,6 +50,7 @@
   * new projects and its value
   * ref links:
     * [GrowwTelugu](https://www.youtube.com/shorts/F724X_YRN6g)
+    * [GT](https://www.youtube.com/shorts/7LyaMi7eqUs)
 * VIX - Volatility Index - Predits the market Volatility
 * Popular Investment Plans
   * Low Risk
